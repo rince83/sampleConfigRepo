@@ -1,4 +1,5 @@
-testvalue: value1
+shared:
+  testvalue: value1
 eureka:
   client:
     service-url:
