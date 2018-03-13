@@ -1,1 +1,2 @@
-mdes.mdesValue=remoteValue
+mdes:
+  mdesValue: remoteValue
